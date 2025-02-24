@@ -3,10 +3,10 @@ Got it! Since your project consists of a **single file (`todo_app.py`)**, here's
 ---
 
 # **📝 To-Do List (Shell + Python + Linux)**  
-![GitHub Repo Stars](https://img.shields.io/github/stars/YOUR_USERNAME/todo-list-shell-python?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/todo-list-shell-python?style=social)  
-![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/todo-list-shell-python)  
-![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/todo-list-shell-python)  
+![GitHub Repo Stars](https://img.shields.io/github/stars/Kunal-sonawanee/todo-list-shell-python?style=social)  
+![GitHub Forks](https://img.shields.io/github/forks/Kunal-sonawanee/todo-list-shell-python?style=social)  
+![GitHub Issues](https://img.shields.io/github/issues/Kunal-sonawanee/todo-list-shell-python)  
+![GitHub License](https://img.shields.io/github/license/Kunal-sonawanee/todo-list-shell-python)  
 
 🚀 **A simple yet powerful To-Do List application** built using **Python and Shell scripting** for Linux users. This project provides **GUI support, database integration, and voice command functionality** to enhance task management.  
 
@@ -85,8 +85,8 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## **📞 Contact & Support**  
 💬 Have questions or suggestions? Reach out via:  
-📧 **Email:** your.email@example.com  
-🔗 **GitHub Issues:** [Report a bug or request a feature](https://github.com/YOUR_USERNAME/todo-list-shell-python/issues)  
+📧 **Email:** sonawanekunal289@gmail.com  
+🔗 **GitHub Issues:** [Report a bug or request a feature](https://github.com/Kunal-sonawanee/todo-list-shell-python/issues)  
 
 
 
