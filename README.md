@@ -1,6 +1,4 @@
-Got it! Since your project consists of a **single file (`todo_app.py`)**, here's a **simplified and refined** README that keeps it clear and professional.  
 
----
 
 # **📝 To-Do List (Shell + Python + Linux)**  
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Kunal-sonawanee/todo-list-shell-python?style=social)  
