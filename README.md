@@ -238,6 +238,17 @@ python todo_app.py
 4. Push the changes: `git push origin feature-branch`  
 5. Open a **Pull Request** 🚀  
 
+---
+
+## 🚀 Future Updates & Advancements  
+This project is **actively maintained** and **open to future enhancements**. Exciting new features are planned, including:  
+🔹 **Task Prioritization** (High, Medium, Low)  
+🔹 **Dark Mode & Custom Themes** 🎨  
+🔹 **Cloud Sync & Multi-Device Support** ☁️  
+🔹 **AI-Based Task Suggestions** 🤖  
+🔹 **Email & SMS Reminders** ✉️  
+
+📢 **Stay tuned for updates!** Have feature suggestions? [Open an issue](https://github.com/Kunal-sonawanee/todo-list-shell-python/issues) or contribute with a PR! 🚀  
 
 
 ## **📜 License**  
